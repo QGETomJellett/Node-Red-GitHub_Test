@@ -1,0 +1,12 @@
+{
+    "name": "Flow-GitHub_Test_2",
+    "description": "Testing the node-red functionality on GitHub",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
