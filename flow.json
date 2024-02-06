@@ -22,7 +22,8 @@
         "y": 300,
         "wires": [
             [
-                "f66eb894340ebc5a"
+                "f66eb894340ebc5a",
+                "bcf8e367c5051a9c"
             ]
         ]
     },
@@ -80,6 +81,23 @@
         "info": "",
         "x": 310,
         "y": 220,
+        "wires": []
+    },
+    {
+        "id": "bcf8e367c5051a9c",
+        "type": "debug",
+        "z": "b9e8f3a16280592b",
+        "name": "Print Timestamp",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 740,
+        "y": 380,
         "wires": []
     }
 ]
