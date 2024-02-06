@@ -71,5 +71,15 @@
         "x": 720,
         "y": 300,
         "wires": []
+    },
+    {
+        "id": "f1eab887d847a34b",
+        "type": "comment",
+        "z": "b9e8f3a16280592b",
+        "name": "Test Comment",
+        "info": "",
+        "x": 310,
+        "y": 220,
+        "wires": []
     }
 ]
